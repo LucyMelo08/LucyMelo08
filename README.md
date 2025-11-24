@@ -1,6 +1,6 @@
 # ¡Hola! Soy Lucy Aracelly Melo Martínez 👋  
 
-## 👩‍💻 Data Analyst | Python • SQL • Power BI  • Google Sheets  • Excel | Experiencia en Salud, Gestión  |  Visualización y Análisis de Datos para la Toma de Decisiones
+## 👩‍💻 Soy Analista de Datos de HENRY bootcamps, además Odontóloga especialista en Administración en Salud.
 
 ---
 
