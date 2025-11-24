@@ -1,6 +1,7 @@
 # ¡Hola! Soy Lucy Aracelly Melo Martínez 👋  
 
-## 👩‍💻 Soy Analista de Datos de HENRY bootcamps, además Odontóloga especialista en Administración en Salud.
+###👩‍💻 Soy Analista de Datos de HENRY bootcamps
+#### Odontóloga especialista en Administración en Salud.
 
 ---
 
